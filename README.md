@@ -1,5 +1,5 @@
 # workshop_github_acs
 
-type someting here
+jobgo na kak 
 
 hello acs
